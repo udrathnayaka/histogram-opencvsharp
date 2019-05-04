@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{6B4F6F88-5D30-46E9-8664-F4DA9BC80FCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10FC3299-6392-45E1-839B-4CDC40C58F58}"
+	ProjectSection(SolutionItems) = preProject
+		WindowsFormsApp1\bin\Debug\cv210.dll = WindowsFormsApp1\bin\Debug\cv210.dll
+		WindowsFormsApp1\bin\Debug\cvaux210.dll = WindowsFormsApp1\bin\Debug\cvaux210.dll
+		WindowsFormsApp1\bin\Debug\cxcore210.dll = WindowsFormsApp1\bin\Debug\cxcore210.dll
+		WindowsFormsApp1\bin\Debug\highgui210.dll = WindowsFormsApp1\bin\Debug\highgui210.dll
+		WindowsFormsApp1\bin\Debug\ml210.dll = WindowsFormsApp1\bin\Debug\ml210.dll
+		WindowsFormsApp1\bin\Debug\OpenCvSharp.dll = WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4F6F88-5D30-46E9-8664-F4DA9BC80FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4F6F88-5D30-46E9-8664-F4DA9BC80FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4F6F88-5D30-46E9-8664-F4DA9BC80FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4F6F88-5D30-46E9-8664-F4DA9BC80FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251BF34F-9034-46C5-BA7B-A1A44B4C1034}
+	EndGlobalSection
+EndGlobal
